@@ -10,7 +10,7 @@ recipient_id = 2
 # The following are for an Adafruit RFM69HCW Transceiver Radio
 # Bonnet https://www.adafruit.com/product/4072
 # You should adjust them to whatever matches your radio
-board = {'isHighPower': True, 'interruptPin': 15, 'resetPin': 22, 'spiDevice': 1}
+board = {'isHighPower': True, 'interruptPin': 18, 'resetPin': 29, 'spiDevice': 1}
 
 # The following are for an RaspyRFM RFM69CW Module #1
 # http://www.seegel-systeme.de/2015/09/02/ein-funkmodul-fuer-den-raspberry-raspyrfm/
