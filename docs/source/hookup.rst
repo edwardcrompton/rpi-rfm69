@@ -17,8 +17,8 @@ Pinout guide
 .. csv-table:: Pin Guide Raspberry Pi to RFM69HCW (Adafruit and Spark Fun breakouts)
 
     PI Name, 3v3 [#f1]_ ,	Ground,	MOSI, MISO, SCLK, ID_SC [#f2]_ , CE0	 
-    PI GPIO, , , 10, 9, 11, , 8, 5
-    PI Pin [#f3]_, 17, 20, 19, 21, 23, 18, 24, 29
+    PI GPIO, , , 10, 9, 11, 22, 8, 25
+    PI Pin [#f3]_, 17, 20, 19, 21, 23, 15, 24, 22
     Adafruit, Vin, GND, MOSI, MISO, CLK, G0, CS, RST
     Sparkfun, 3.3v, GND, MOSI,	MISO, SCK, DIO0, NSS, RESET
 
